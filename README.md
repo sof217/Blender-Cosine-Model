@@ -1,6 +1,6 @@
 # Blender-Mathematical-Modelling
 Blender Script Practice
-#here is the code - I modified the code given on prosperocode's website. 
+#here is the code - I slightly modified the code given on prosperocode's website. 
 
 import bpy
 from math import cos, pi
